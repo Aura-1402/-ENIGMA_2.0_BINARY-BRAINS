@@ -1,0 +1,12 @@
+##Frontend Requirements:
+- React / Next.js
+- Axios
+- Monaco Editor
+- Web Speech API support (Chrome)
+- FormData for file upload
+
+##Backend Requirements:
+-
+-
+-
+-
